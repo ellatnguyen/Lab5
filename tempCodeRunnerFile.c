@@ -1,0 +1,1 @@
+// Global array of month names
